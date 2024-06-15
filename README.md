@@ -4,7 +4,7 @@
 
 Full Stack Open is a free online course from the University of Helsinki.
 Course covers how to build modern web applications using React, Redux, Node.js, MongoDB, GraphQL, REST APIs and TypeScript.
-It covers popular tools/techs like React and Node.js, and is focusing on building single-page applications (SPAs) with continues integration (CI) practices.
+It covers popular tools/techs like React and Node.js, and is focusing on building single-page applications (SPAs) with continuous integration (CI) practices.
 
 ## Content:
 
